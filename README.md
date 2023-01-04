@@ -22,3 +22,4 @@
 		},
 	  }
 ``` 
+🔹 The goal is to allow developers to write fast and expressive command-line applications.
