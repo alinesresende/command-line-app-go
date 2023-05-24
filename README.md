@@ -1,4 +1,4 @@
-# Mini Application 💾⚡
+# Mini Application ⚡
 
 ### Creating applications from the command line
 
